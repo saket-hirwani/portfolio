@@ -7,7 +7,7 @@ function Landingpage() {
         <Cell col={12}>
         <img
         src="https://media-exp1.licdn.com/dms/image/C4E03AQHcekXoscn7yQ/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=WlhZ8hW_rTuge8Aolh7TU65KUTbX_J6_PSWtHZqd3Uc"
-        alt="my pic"
+        alt="Saket Kumar"
         className="avatar"
         />
         <div className="banner_text">  
