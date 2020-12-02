@@ -92,6 +92,7 @@ background: linear-gradient(to right, #2a0845, #6441A5); /* W3C, IE 10+/ Edge, F
   /* width: '80%'; */
   margin: 'auto';
 }
+
 .contact_grid{
   /* background-color:white; */
   width: 80%;
@@ -100,6 +101,7 @@ background: linear-gradient(to right, #2a0845, #6441A5); /* W3C, IE 10+/ Edge, F
   border: 2px solid red;
   border-radius: 10px; */
 }
+
 .img_container{
   display: flex;
   flex-direction: column;
@@ -186,6 +188,14 @@ a{
   text-align: center;
   padding-top: 10px;
 }
+.skill_grid{
+  /* background-color:white; */
+  width: 80%;
+  text-align: center;
+  /* height: 550px;
+  border: 2px solid red;
+  border-radius: 10px; */
+}
 .skill_card{
   width: 55%;
   background-color: #fff;
@@ -235,4 +245,26 @@ border-radius: 5px;
   display: inline-flex; 
   background-color: aquamarine;
   border-radius: 8px;
+}
+
+.education_grid{
+  /* background-color:white; */
+  /* width: 60%; */
+  text-align: center;
+  /* height: 550px;
+  border: 2px solid red;
+  border-radius: 10px; */
+}
+.education_card{
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  min-height: 230px;
+}
+.education_card > h4{
+  font-weight: bold;
+  min-height: 60px;
+}
+.education_card > a{
+  color: black;
 }
