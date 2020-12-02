@@ -17,13 +17,7 @@ function About() {
       <div className="text_container_about">
       
         <b>Who I Am</b>
-        <p> I'm Annie Sexton, and I'm a full stack web developer. I was
-        born and raised in the heart of Texas, where I survived solely on
-        barbeque and live music. After college, I achieved my (at that point)
-        life-long dream of working as an English instructor in Japan. I
-        accidentally fell in love with the magical world of website-making when
-        I was tasked with making tweaks to the school's website, and later I
-        accepted my first-ever web design job in Osaka, Japan.
+        <p> I'm Saket Kumar, and I'm a full stack web developer.
       </p>
       </div>
 
